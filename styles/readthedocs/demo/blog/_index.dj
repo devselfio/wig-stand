@@ -1,0 +1,5 @@
+---
+title: Blog
+layout: readthedocs:layouts/page.html
+---
+{{ demo.posts.blog_index }}
